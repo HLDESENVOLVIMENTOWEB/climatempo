@@ -17,10 +17,8 @@ Rode com node superior ao 18:
 
 ```js
  npm install
-};
 ```
 
 ```js
  npm run dev
-};
 ```
